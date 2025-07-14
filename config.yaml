@@ -275,6 +275,7 @@ teams:
     members:
       - AlfredoG87
       - jasperpotts
+      - jsync-swirlds
       - mattp-swirldslabs
   - name: hiero-block-node-committers
     maintainers:
@@ -431,12 +432,9 @@ teams:
       - poulok
     members:
       - lpetrovic05
-      - edward-swirldslabs
       - litt3
       - mxtartaglia-sl
       - timo0
-      - mustafauzunn
-      - IvanKavaldzhiev
       - abies
       - netopyr
   - name: hiero-consensus-node-smart-contract-codeowners
