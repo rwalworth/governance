@@ -15,13 +15,13 @@ Maintainers are assigned the following scopes in this repository:
 ## Active Maintainers
 
 | Name                   | GitHub ID     | Scope | LFID | Discord ID | Email | Company Affiliation  |
-|----------------------- | ------------- | ----- | ---- | ---------- | ----- | -------------------- |
+|----------------------- |---------------| ----- | ---- | ---------- | ----- | -------------------- |
 | Lenin Mehedy           | leninmehedy   |       |      |            |       | Hashgraph            |
 | Jeromy Cannon          | jeromy-cannon |       |      |            |       | Hashgraph            |
 | Nathan Klick           | nathanklick   |       |      |            |       | Hashgraph            |
 | Pavel Borisov          | PavelSBorisov |       |      |            |       | LimeChain            |
 | Roger Barker           | rbarker-dev   |       |      |            |       | Hashgraph            |
-| Andrew Brandt          | andrewb1269 |       |      |            |       | Hashgraph            |
+| Andrew Brandt          | andrewb1269   |       |      |            |       | Hashgraph            |
 | Ry Jones               | ryjones       |       |      |            |       | The Linux Foundation |
 | Jessica Gonzalez       | jwagantall    |       |      |            |       | The Linux Foundation |
 | Richard Bair           | rbair23       |       |      |            |       | Hashgraph            |
@@ -42,4 +42,4 @@ Maintainers are assigned the following scopes in this repository:
 
 ## The Duties of a Maintainer
 
-Maintainers are expected to perform duties in alignment with **[Hiero-Ledger's defined maintainer guidelines](https://github.com/hiero-ledger/governance/blob/main/roles-and-groups.md#maintainers).**
+Maintainers are expected to perform duties in alignment with **[Hiero-Ledger's defined maintainer guidelines](https://github.com/hiero-ledger/.github/blob/main/CONTRIBUTING.md#about-users-and-maintainers).**

@@ -199,6 +199,12 @@ teams:
       - aceppaluni
       - emiliyank
       - Akshat8510
+      - Mounil2005
+      - parvninama
+      - drtoxic69
+      - prajeeta15
+      - undefinedIsMyLife
+      - cheese-cakee
   - name: hiero-did-sdk-js-maintainers
     maintainers:
       - AlexanderShenshin
@@ -208,22 +214,26 @@ teams:
       - KononovAndrey
       - dmueller2001
       - drgorb
+      - Toktar
   - name: hiero-did-sdk-js-committers
     maintainers:
       - Reccetech
     members:
       - KononovAndrey
+      - tajang97
   - name: hiero-did-sdk-python-maintainers
     maintainers:
       - Reccetech
     members:
       - AlexanderShenshin
       - dmueller2001
+      - Toktar
   - name: hiero-did-sdk-python-committers
     maintainers:
       - Reccetech
     members:
       - paulo-caldas
+      - tajang97
   - name: hiero-sdk-rust-maintainers
     maintainers:
       - RickyLB
@@ -377,6 +387,8 @@ teams:
       - Nana-EC
     members:
       - rockysingh
+      - ivannov
+      - berryware
   - name: hiero-consensus-node-maintainers
     maintainers:
       - Nana-EC
@@ -689,13 +701,14 @@ teams:
       - Harasz
       - ChangoBuitrago
       - AlexanderShenshin
+      - Toktar
   - name: identity-collaboration-hub-committers
     maintainers:
       - Reccetech
       - AlexanderShenshin
     members:
       - ChangoBuitrago
-      - Toktar
+      - tajang97
   - name: hiero-improvement-proposals-maintainers
     maintainers:
       - sergmetelin
@@ -875,6 +888,7 @@ teams:
       - leninmehedy
     members:
       - matteriben
+      - olsentorfinn
       - JeffreyDallas
       - Ivo-Yankov
       - instamenta
@@ -886,7 +900,6 @@ teams:
       - jeromy-cannon
       - leninmehedy
     members:
-      - olsentorfinn
       - JeffreyDallas
       - Ivo-Yankov
       - instamenta
@@ -993,6 +1006,16 @@ teams:
     - Evdokia-Georgieva
     - thomas-swirlds-labs
     - timfn-hg
+  - name: roadmap-maintainers
+    maintainers:
+      - steven-sheehy
+    members:
+      - a-saksena
+      - rbair23
+  - name: roadmap-committers
+    maintainers:
+      - steven-sheehy
+    members: []
   - name: hiero-enterprise-java-maintainers
     maintainers:
       - hendrikebbers
@@ -1401,3 +1424,13 @@ repositories:
       prod-security: triage
       sec-ops: triage
     visibility: public
+  - name: roadmap
+    teams:
+      tsc: maintain
+      github-maintainers: maintain
+      roadmap-maintainers: maintain
+      roadmap-committers: write
+      security-maintainers: triage
+      prod-security: triage
+      sec-ops: triage
+    visibility: private
